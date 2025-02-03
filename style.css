@@ -1,0 +1,21 @@
+ul {
+   list-style-type:georgian; 
+   background-color: blue;
+   font-size: 40px;
+   border: 5px solid;
+   
+}
+
+li {
+    background-color: aqua;
+    border: 2px dotted;
+    padding: 10px;
+}
+
+.Fruit {
+    background-color: red;
+}
+
+table {
+    border: 4px solid green;
+}
